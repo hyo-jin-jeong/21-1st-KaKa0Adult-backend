@@ -49,7 +49,7 @@
 - 장바구니 추가(post) 삭제(delete) 업데이트(patch) 기능
 - user의 장바구니에 담긴 상품리스트 제공(get)
 - 장바구니에서 결제(post) - 데이터 무결성을 위한 `transaction`처리<br>
-https://github.com/wecode-bootcamp-korea/21-1st-KaKa0Adult-backend/tree/main/orders
+https://github.com/hyo-jin-jeong/21-1st-KaKa0Adult-backend/tree/main/orders
 <br>
 
 ## Reference
