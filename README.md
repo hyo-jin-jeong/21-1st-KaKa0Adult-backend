@@ -1,4 +1,4 @@
-# 21-1st-KaKa0Adult-backend
+# KaKa0Adult-backend
 
 ## KaKa0Adult 프로젝트 Back-end 소개
 
